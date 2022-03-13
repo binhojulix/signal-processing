@@ -73,4 +73,6 @@ Referências bibliográficas:
 - Altofalante.
 - Microserviços.
 - IOT.
+- React
+- MLFLOW
 
